@@ -13,16 +13,13 @@ Ao final deste documento será disponibilizado um **conjunto de links e materiai
 
 Os candidatos deverão desenvolver uma **Landing Page Temática**, contendo elementos visuais, interatividade e organização de projeto, simulando um pequeno projeto real de desenvolvimento.
 
-Tema geral: CAMPANHA SOLIDÁRIA
-- Adote seu pet
-- Doação de sangue
-- Arrecadação de alimentos
-- Doação de brinquedos
-- Doação de livros
+Tema geral: **CAUSA SOCIAL** ou **CAMPANHA SOLIDÁRIA**
 
+Queremos que vocês desenvolvam uma landing page com o objetivo de divulgar uma campanha solidária criada por vocês ou uma causa na qual vocês acreditam e gostariam de defender. A proposta é que a página apresente claramente a ideia, seu propósito e a forma como ela será comunicada ao público.
 
+Abusem da criatividade. Pensem em ideias diferentes, saiam do comum e explorem abordagens que chamem atenção. Queremos ver personalidade no projeto, soluções originais e páginas que realmente transmitam uma mensagem.
 
-
+Nos surpreendam. Testem ideias novas, experimentem, arrisquem e aproveitem o desafio para aprender, evoluir e se divertir durante o desenvolvimento
 
 ---
 
@@ -44,8 +41,8 @@ O protótipo é um esboço visual da landing page, utilizado para planejar como 
 
 Não é necessário um protótipo completo, porém deve existir pelo menos um esboço contendo:
 
-- Esboço das seções
-- Esboço dos Principais componentes de interface (ex.: botões, campos, menus, cards, etc.)
+- Seções
+- Principais componentes de interface (ex.: botões, campos, menus, cards, etc.)
 
 O objetivo é demonstrar organização, planejamento e clareza na construção da interface antes da implementação.
 
@@ -69,7 +66,6 @@ As seções podem conter, por **EXEMPLO**:
 - Benefícios ou aplicações
 - Galeria de imagens
 - Contato
-- Sobre a equipe
 
 Não é obrigatório utilizar frameworks, bibliotecas ou quaisquer outras tecnologias além de HTML, CSS e JavaScript. No entanto, o uso dessas ferramentas é permitido e poderá ser considerado como diferencial na avaliação, desde que sua utilização seja adequada e coerente com o projeto desenvolvido.
 
@@ -79,21 +75,29 @@ Não é obrigatório utilizar frameworks, bibliotecas ou quaisquer outras tecnol
 
 A página deve possuir elementos interativos implementados com CSS e/ou JavaScript.
 
-Devem ser implementadas **pelo menos três** das funcionalidades abaixo:
+Devem ser implementadas no **mínimo três funcionalidades interativas** obrigatórias, escolhidas da lista abaixo.
+É recomendado utilizar mais do que o mínimo exigido, e também é permitido adicionar outras interações além das listadas. Quanto maior o nível de interatividade, criatividade e organização, melhor será a avaliação.
 
+**Fácil**
 - Menu interativo (menu responsivo, menu que abre/fecha, ou similar)
-- Modal ou popup
-- Formulário funcional com validação de campos utilizando JavaScript
-- Animações com CSS ou JavaScript
-- Carrossel de imagens ou conteúdo
-- Scroll animado entre seções
+- Modal
+- Animações com CSS (ex: fade, slide, pulse, rotação, bounce ou outros efeitos de transição e movimento)
+- Scroll animado entre seções (navegação suave entre partes da página, realizando a rolagem de forma animada ao clicar em links do menu)
+- Tooltip (mensagens ao passar o mouse)
+- Menu fixo ao rolar a página (barra de navegação que permanece visível no topo da tela enquanto o usuário rola a página)
+- Efeitos ao passar o mouse (hover effects)
+- Animações ao carregar a página (efeitos visuais que acontecem automaticamente quando a página abre)
+
+**Médio**
 - Alternância de tema (claro/escuro)
-- Botões com comportamento dinâmico
 - Elementos que aparecem ao rolar a página
 
-As interações não precisam ser complexas, porém devem estar funcionando corretamente.
+**Difícil**
+- Mudança dinâmica de textos ou imagens (conteúdos da página são alterados em tempo real com base na interação do usuário, como trocar textos, imagens ou informações ao clicar em botões, selecionar opções ou navegar entre elementos)
+- Formulário funcional com validação de campos utilizando JavaScript 
+- Carrossel de imagens ou conteúdo
 
-A qualidade da implementação, a organização do código e a quantidade de funcionalidades interativas desenvolvidas serão consideradas na avaliação. Projetos que apresentarem maior nível de interatividade, desde que bem implementada, poderão obter melhor pontuação.
+As interações não precisam ser complexas, porém devem estar funcionando corretamente.
 
 ---
 
@@ -109,7 +113,7 @@ Implementações mais completas de responsividade serão consideradas como difer
 
 ### 5. Hospedagem do projeto
 
-O projeto deverá estar publicado online, permitindo sua visualização em navegador.
+O projeto deverá estar publicado online, permitindo sua visualização no navegador.
 
 Recomenda-se utilizar uma das seguintes plataformas gratuitas:
 
@@ -158,7 +162,7 @@ O repositório deve conter um arquivo `README.md` com as seguintes informações
 - Link do protótipo no Figma  
 - O Figma deve estar configurado para permitir visualização por qualquer pessoa com o link
 
-Projetos sem README ou com informações incompletas poderão perder pontuação.
+Projetos sem README ou com informações incompletas perderão pontuação.
 
 ---
 
@@ -169,31 +173,32 @@ Não é obrigatório o uso de boas práticas avançadas de versionamento, porém
 ---
 
 ## Material de Apoio/Estudo
-Não fiquem presos só ao material que estamos enviando. É muito importante que vocês busquem outros conteúdos por conta própria também.
-Os links abaixo são apenas um ponto de partida, com o básico para ajudar vocês a entenderem o que está sendo pedido na etapa.
+Não fiquem presos apenas ao material que estamos enviando. É muito importante que vocês busquem outros conteúdos por conta própria também.
+Os links abaixo são apenas um ponto de partida, com o básico para ajudar vocês a entender o que está sendo pedido na etapa.
 1. Figma:
     - [*O que é o FIGMA?*](https://www.youtube.com/watch?v=uan_tk6j_rg)
     - [*Aulão de FIGMA*](https://www.youtube.com/watch?v=5U2Sxj8AEks)
 2. Editor de Texto/Interface de Desenvolvimento:
     - [*Como usar o VS CODE*](https://www.youtube.com/watch?v=NXgsXiu4LtA)
-3. Versionamento de código (GIT/GITHUB):
-    - [*Como instalar GIT e GITHUB DESKTOP no PC*](https://www.youtube.com/watch?v=NgWExh3bswg&t=416s)
-    - [*Como criar uma conta no GITHUB*](https://www.youtube.com/watch?v=1QTi8nIlK1o)
-    - [*Como publicar um código/projeto no GITHUB*](https://www.youtube.com/watch?v=P0Hvrf8T3zo)
+3. Versionamento de código (GIT/GitHub):
+    - [*Como instalar GIT e GitHub DESKTOP no PC*](https://www.youtube.com/watch?v=NgWExh3bswg&t=416s)
+    - [*Como criar uma conta no GitHub*](https://www.youtube.com/watch?v=1QTi8nIlK1o)
+    - [*Como publicar um código/projeto no GitHub*](https://www.youtube.com/watch?v=P0Hvrf8T3zo)
     - [*Gerenciamento, comandos e funcionalidades do GITHUB DESKTOP*](https://www.youtube.com/watch?v=Sbcu_GuySjo)
 4. HTML, CSS e JavaScript:
     - [*Diferença entre HTML, CSS e JAVASCRIPT*](https://www.youtube.com/watch?v=B4FU3NFRTDw)
     - [*Aulão HTML*](https://www.youtube.com/watch?v=Fhy-5CtVkiM)
     - [*Aulão CSS*](https://www.youtube.com/watch?v=AB35iSr1YyA)
     - [*Curso Rápido de JAVASCRIPT*](https://www.youtube.com/playlist?list=PLhkO7OMKgT_rRK3qvJsZAy3jrkupOxD_h) 
-5. Vídeos de pessoas desenvolvendo landing pages do 0:
+5. Vídeos de pessoas desenvolvendo landing pages do zero:
     - [*Cafeteria*](https://www.youtube.com/watch?v=v1jVqO6dx9A)
-    - [*Restaurante*](https://www.youtube.com/watch?v=ik-njdH5Q5c)
+    - [*Restaurante*](https://www.youtube.com/watch?v=8V3mw1w6h0U&t=1212s&pp=ygUnY29tbyBmYXplciB1bWEgbGFuZGluZyBwYWdlIHJlc3RhdXJhbnRl)
     - [*Starbucks*](https://www.youtube.com/watch?v=ik-njdH5Q5c)
     - [*Apresentação de Produto*](https://www.youtube.com/watch?v=o_yiPCiwzUs&t=4402s)
+    - [*Clonando Página da Apple*](https://www.youtube.com/watch?v=yYgkh7n5Ubg)
 6. README:
-    - a
+    - [*Como fazer bons README*](https://www.youtube.com/watch?v=k4Rsy8GbKE0&pp=ygUYY29tbyBmYXplciB1bSBib20gcmVhZG1l)
 7. Responsividade:
-    - a
+    - [*Criando Layouts Responsivos*](https://www.youtube.com/watch?v=S-TqflGxHd4)
 8. Hospedagem:
-    - [*Como hospedar usando o GITHUB PAGES*](https://www.youtube.com/watch?v=_jI3782DGDc)
+    - [*Como hospedar usando o GitHub Pages*](https://www.youtube.com/watch?v=_jI3782DGDc)

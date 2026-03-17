@@ -13,7 +13,14 @@ Ao final deste documento será disponibilizado um **conjunto de links e materiai
 
 Os candidatos deverão desenvolver uma **Landing Page Temática**, contendo elementos visuais, interatividade e organização de projeto, simulando um pequeno projeto real de desenvolvimento.
 
-Tema geral:
+Tema geral: CAMPANHA SOLIDÁRIA
+- Adote seu pet
+- Doação de sangue
+- Arrecadação de alimentos
+- Doação de brinquedos
+- Doação de livros
+
+
 
 
 
@@ -27,7 +34,7 @@ A etapa terá duração de **18/03 a 12/04**.
 
 ## Requisitos obrigatórios
 
-O projeto desenvolvido deverá seguir os requisitos mínimos descritos abaixo. O não cumprimento de qualquer um dos itens obrigatórios poderá resultar em desconto na avaliação.
+O projeto desenvolvido deverá seguir os requisitos mínimos descritos abaixo. O não cumprimento de qualquer um dos itens obrigatórios resultará em desconto na avaliação.
 
 ### 1. Protótipo no Figma
 
@@ -48,12 +55,12 @@ O objetivo é demonstrar organização, planejamento e clareza na construção d
 
 A aplicação deve consistir em uma **Landing Page Temática**, desenvolvida utilizando tecnologias web (HTML, CSS e JavaScript), contendo no mínimo os seguintes elementos:
 
-- Página principal (`index.html`) como ponto de entrada do projeto
-- Barra de navegação funcional que permita navegar entre as seções da página
-- Pelo menos **2 seções diferentes**, contendo conteúdos relacionados ao tema escolhido
-- Rodapé (footer) contendo informações adicionais, créditos ou links
-- Uso de imagens, ícones ou elementos visuais que contribuam para a apresentação do tema
-- Layout organizado, com separação visual clara entre as seções
+- Página principal (index.html) como ponto de entrada do projeto.
+- Barra de navegação funcional, permitindo navegar entre as seções da página.
+- Pelo menos 2 seções de conteúdo diferentes relacionadas ao tema escolhido, sendo obrigatoriamente seções principais da página (Obs.: Header, Navbar, Footer ou menus não serão considerados como seções válidas para essa contagem.)
+- Rodapé (footer) contendo informações adicionais, créditos ou links.
+- Uso de imagens, ícones ou elementos visuais que contribuam para a apresentação do tema.
+- Layout organizado, com separação visual clara entre as seções da página.
 
 As seções podem conter, por **EXEMPLO**:
 
@@ -81,7 +88,6 @@ Devem ser implementadas **pelo menos três** das funcionalidades abaixo:
 - Carrossel de imagens ou conteúdo
 - Scroll animado entre seções
 - Alternância de tema (claro/escuro)
-- Validação de campos utilizando JavaScript
 - Botões com comportamento dinâmico
 - Elementos que aparecem ao rolar a página
 
@@ -138,11 +144,6 @@ O repositório deve estar público, permitindo que a equipe avaliadora tenha ace
 
 O repositório deve conter todo o código-fonte do projeto, incluindo todos os arquivos necessários para sua execução.
 
-Também deverá estar presente no repositório:
-
-- Link para a versão publicada do projeto online  
-- Caso não seja possível realizar a publicação, deve ser incluída uma descrição explicando como executar o projeto localmente  
-
 ---
 
 #### README obrigatório
@@ -155,7 +156,7 @@ O repositório deve conter um arquivo `README.md` com as seguintes informações
 - Tecnologias utilizadas (HTML, CSS, JavaScript, bibliotecas, frameworks, etc.)
 - Link do projeto hospedado
 - Link do protótipo no Figma  
-  - O Figma deve estar configurado para permitir visualização por qualquer pessoa com o link
+- O Figma deve estar configurado para permitir visualização por qualquer pessoa com o link
 
 Projetos sem README ou com informações incompletas poderão perder pontuação.
 
@@ -190,5 +191,9 @@ Os links abaixo são apenas um ponto de partida, com o básico para ajudar você
     - [*Restaurante*](https://www.youtube.com/watch?v=ik-njdH5Q5c)
     - [*Starbucks*](https://www.youtube.com/watch?v=ik-njdH5Q5c)
     - [*Apresentação de Produto*](https://www.youtube.com/watch?v=o_yiPCiwzUs&t=4402s)
-6. Hospedagem:
+6. README:
+    - a
+7. Responsividade:
+    - a
+8. Hospedagem:
     - [*Como hospedar usando o GITHUB PAGES*](https://www.youtube.com/watch?v=_jI3782DGDc)

@@ -154,7 +154,7 @@ O repositório deve conter todo o código-fonte do projeto, incluindo todos os a
 
 O repositório deve conter um arquivo `README.md` com as seguintes informações:
 
-- Nome completo do(s) candidato(s)
+- Nome completo do candidato
 - Semestre atual
 - Tema escolhido para a landing page
 - Tecnologias utilizadas (HTML, CSS, JavaScript, bibliotecas, frameworks, etc.)

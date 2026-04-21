@@ -159,7 +159,8 @@ O repositório deve conter um arquivo `README.md` com as seguintes informações
 - Tema escolhido para a landing page
 - Tecnologias utilizadas (HTML, CSS, JavaScript, bibliotecas, frameworks, etc.)
 - Link do projeto hospedado
-- Link do protótipo no Figma  
+- Link do protótipo no Figma
+- Passo a passo para rodar o projeto localmente
 - O Figma deve estar configurado para permitir visualização por qualquer pessoa com o link
 
 Projetos sem README ou com informações incompletas perderão pontuação.
